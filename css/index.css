@@ -1,0 +1,17 @@
+/*CSS MODO OSCURO PROGRAMACION  */
+
+* {
+  background-color: black;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+html {
+  color: cornsilk;
+}
+
+h1 {
+  size: 50px;
+}
